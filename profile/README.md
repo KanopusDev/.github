@@ -15,17 +15,17 @@ We specialize in developing robust, scalable, and intelligent software solutions
 ### **Our Key Projects**
 Discover some of our notable open-source projects:
 
-- **[Gatria](https://github.com/Kanopus/Gatria)** - A powerful development toolkit for modern applications.
-- **[Nova-Lite](https://github.com/Kanopus/Nova-Lite)** - A lightweight, performance-focused application framework.
-- **[Nova](https://github.com/Kanopus/Nova)** - A robust, scalable application framework.
-- **[Ganga](https://github.com/Kanopus/Ganga)** - Cloud-native development platform.
-- **[Polris](https://github.com/Kanopus/Polris)** - Next-generation web development framework.
-- **[NodesNatter](https://github.com/Kanopus/NodesNatter)** - Collaborative chat platform for developers.
-- **[Meta](https://github.com/Kanopus/Meta)** - Redefining metadata management.
-- **[Canopus](https://github.com/Kanopus/Canopus)** - The core powering our entire ecosystem.
-- **[Canopus Bot](https://github.com/Kanopus/Canopus-Bot)** - AI-powered automation assistant.
-- **[Canopus Plugins](https://github.com/Kanopus/Canopus-Plugins)** - Enhancing Canopus's functionality.
-- **[Virgo](https://github.com/Kanopus/Virgo)** - Advanced astronomical data processing tool.
+- **[Gatria](https://github.com/Kanopusdev/Gatria)** - A powerful development toolkit for modern applications.
+- **[Nova-Lite](https://github.com/Kanopusdev/Nova-Lite)** - A lightweight, performance-focused application framework.
+- **[Nova](https://github.com/Kanopusdev/Nova)** - A robust, scalable application framework.
+- **[Ganga](https://github.com/Kanopusdev/Ganga)** - Cloud-native development platform.
+- **[Polris](https://github.com/Kanopusdev/Polris)** - Next-generation web development framework.
+- **[NodesNatter](https://github.com/Kanopusdev/NodesNatter)** - Collaborative chat platform for developers.
+- **[Meta](https://github.com/Kanopusdev/Meta)** - Redefining metadata management.
+- **[Canopus](https://github.com/Kanopusdev/Canopus)** - The core powering our entire ecosystem.
+- **[Canopus Bot](https://github.com/Kanopusdev/Canopus-Bot)** - AI-powered automation assistant.
+- **[Canopus Plugins](https://github.com/Kanopusdev/Canopus-Plugins)** - Enhancing Canopus's functionality.
+- **[Virgo](https://github.com/Kanopusdev/Virgo)** - Advanced astronomical data processing tool.
 
 ### **Join Our Community**
 We are passionate about building a vibrant, inclusive developer community. Connect with us through our official channels:
