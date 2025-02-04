@@ -30,8 +30,8 @@ Discover some of our notable open-source projects:
 ### **Join Our Community**
 We are passionate about building a vibrant, inclusive developer community. Connect with us through our official channels:
 
-- **Instagram:** [@canopusdev](https://instagram.com/canopusdev)
-- **Twitter:** [@canopusdev](https://twitter.com/canopusdev)
+- **Instagram:** [@canopusdev](https://instagram.com/Kanopusdev)
+- **Twitter:** [@canopusdev](https://twitter.com/Kanopusdev)
 - **Discord:** [Join our server](https://discord.gg/JUhv27kzcJ)
 
 Join us in reshaping the future of technology through AI/ML and open-source innovation.
