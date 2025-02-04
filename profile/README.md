@@ -1,6 +1,6 @@
-**About Us - Canopus Development**
+**About Us - Kanopus Development**
 
-At **Canopus Development**, we are dedicated to driving innovation in artificial intelligence, machine learning, and open-source software development. Our mission is to create a global AI/ML community while inspiring developers to contribute to impactful open-source projects.
+At **Kanopus Development**, we are dedicated to driving innovation in artificial intelligence, machine learning, and open-source software development. Our mission is to create a global AI/ML community while inspiring developers to contribute to impactful open-source projects.
 
 ### **Our Vision**
 We envision a world where cutting-edge technology is accessible to all, fostering learning, creativity, and technological advancement. By building a supportive AI/ML ecosystem, we aim to break barriers and empower the next generation of developers.
@@ -15,17 +15,17 @@ We specialize in developing robust, scalable, and intelligent software solutions
 ### **Our Key Projects**
 Discover some of our notable open-source projects:
 
-- **[Gatria](https://github.com/Canopus-Development/Gatria)** - A powerful development toolkit for modern applications.
-- **[Nova-Lite](https://github.com/Canopus-Development/Nova-Lite)** - A lightweight, performance-focused application framework.
-- **[Nova](https://github.com/Canopus-Development/Nova)** - A robust, scalable application framework.
-- **[Ganga](https://github.com/Canopus-Development/Ganga)** - Cloud-native development platform.
-- **[Polris](https://github.com/Canopus-Development/Polris)** - Next-generation web development framework.
-- **[NodesNatter](https://github.com/Canopus-Development/NodesNatter)** - Collaborative chat platform for developers.
-- **[Meta](https://github.com/Canopus-Development/Meta)** - Redefining metadata management.
-- **[Canopus](https://github.com/Canopus-Development/Canopus)** - The core powering our entire ecosystem.
-- **[Canopus Bot](https://github.com/Canopus-Development/Canopus-Bot)** - AI-powered automation assistant.
-- **[Canopus Plugins](https://github.com/Canopus-Development/Canopus-Plugins)** - Enhancing Canopus's functionality.
-- **[Virgo](https://github.com/Canopus-Development/Virgo)** - Advanced astronomical data processing tool.
+- **[Gatria](https://github.com/Kanopus/Gatria)** - A powerful development toolkit for modern applications.
+- **[Nova-Lite](https://github.com/Kanopus/Nova-Lite)** - A lightweight, performance-focused application framework.
+- **[Nova](https://github.com/Kanopus/Nova)** - A robust, scalable application framework.
+- **[Ganga](https://github.com/Kanopus/Ganga)** - Cloud-native development platform.
+- **[Polris](https://github.com/Kanopus/Polris)** - Next-generation web development framework.
+- **[NodesNatter](https://github.com/Kanopus/NodesNatter)** - Collaborative chat platform for developers.
+- **[Meta](https://github.com/Kanopus/Meta)** - Redefining metadata management.
+- **[Canopus](https://github.com/Kanopus/Canopus)** - The core powering our entire ecosystem.
+- **[Canopus Bot](https://github.com/Kanopus/Canopus-Bot)** - AI-powered automation assistant.
+- **[Canopus Plugins](https://github.com/Kanopus/Canopus-Plugins)** - Enhancing Canopus's functionality.
+- **[Virgo](https://github.com/Kanopus/Virgo)** - Advanced astronomical data processing tool.
 
 ### **Join Our Community**
 We are passionate about building a vibrant, inclusive developer community. Connect with us through our official channels:
