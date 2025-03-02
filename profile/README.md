@@ -32,7 +32,7 @@ We are passionate about building a vibrant, inclusive developer community. Conne
 
 - **Instagram:** [@canopusdev](https://instagram.com/Kanopusdev)
 - **Twitter:** [@canopusdev](https://twitter.com/Kanopusdev)
-- **Discord:** [Join our server](https://discord.gg/JUhv27kzcJ)
+- **Slack:** [Join Our Slack](https://kanopusdev.slack.com)
 
 Join us in reshaping the future of technology through AI/ML and open-source innovation.
 
