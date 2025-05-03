@@ -1,4 +1,4 @@
-<h1 align="center">🌌 About Kanopus Development 🌌</h1>
+<h1 align="center"> About Kanopus Development </h1>
 
 <p align="center">
   <em>Pioneering Open Source Innovation</em>
