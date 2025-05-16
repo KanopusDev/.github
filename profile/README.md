@@ -1,4 +1,4 @@
-<h1 align="center"> About Kanopus Development </h1>
+<h1 align="center"> About Kanopus </h1>
 
 <p align="center">
   <em>Pioneering Open Source Innovation</em>
@@ -35,7 +35,7 @@ Our mission is threefold:
 
 <h2>⚙️ Our Expertise</h2>
 
-<p>Kanopus Development specializes in building sophisticated software solutions across multiple domains:</p>
+<p>Kanopus specializes in building sophisticated software solutions across multiple domains:</p>
 
 ### AI/ML Solutions
 We create intelligent applications that leverage cutting-edge machine learning models to solve complex challenges, from natural language processing to predictive analytics.
