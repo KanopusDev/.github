@@ -92,9 +92,9 @@ No CLA required. MIT licensed unless stated otherwise.
 | 🌐 Kanopus | [kanopus.org](https://kanopus.org) |
 | 🏢 VRIP7 Group | [github.com/vrip7](https://github.com/vrip7) |
 | 💼 LinkedIn | [company/vrip7](https://linkedin.com/company/vrip7) |
-| 🐦 X/Twitter | [@KanopusDev](https://x.com/KanopusDev) |
-| 📸 Instagram | [@KanopusDev](https://instagram.com/KanopusDev) |
-| 📧 Email | [support@kanopus.org](mailto:support@kanopus.org) |
+| 🐦 X/Twitter | [@_vrip7](https://x.com/_vrip7) |
+| 📸 Instagram | [@_vrip7](https://instagram.com/_vrip7) |
+| 📧 Email | [support@vrip7.com](mailto:support@vrip7.com) |
 
 ---
 
