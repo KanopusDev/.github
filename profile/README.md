@@ -29,8 +29,8 @@ While VRIP7 operates across six business verticals (IT hardware, real estate, de
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [**Kale**](https://github.com/KanopusDev/Kale) | Enterprise email API — send via your own SMTP with template management, API keys, and analytics | `Python` `FastAPI` |
-| [**Castor**](https://github.com/vrip7/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
-| [**MindWall**](https://github.com/vrip7/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | `Python` |
+| [**Castor**](https://github.com/KanopusDev/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
+| [**MindWall**](https://github.com/KanopusDev/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | `Python` |
 
 ### In Development
 
