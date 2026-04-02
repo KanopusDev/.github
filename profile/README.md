@@ -18,28 +18,26 @@
 
 ## Who We Are
 
-Kanopus is [VRIP7](https://github.com/vrip7)'s open-source AI tooling organization. We build developer infrastructure, intelligent automation frameworks, and enterprise-grade tools — all open source, all built in public.
+Kanopus is [VRIP7](https://github.com/vrip7)'s open-source and software development organization. We build developer infrastructure, intelligent automation frameworks, enterprise-grade tools, and commercial software products — shipping from India.
 
-While VRIP7 operates across six business verticals (IT hardware, real estate, defence R&D, hospitality, angel investment, and consultancy), Kanopus is where the code lives. Every framework, every tool, every experiment — shipped here.
+While VRIP7 operates across six business verticals (IT hardware, real estate, defence R&D, hospitality, angel investment, and consultancy), Kanopus is where the code lives.
 
-## Projects
-
-### Active
+## Open-Source Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**Kale**](https://github.com/KanopusDev/Kale) | Enterprise email API — send via your own SMTP with template management, API keys, and analytics | `Python` `FastAPI` |
-| [**Castor**](https://github.com/KanopusDev/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
 | [**MindWall**](https://github.com/KanopusDev/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | `Python` |
+| [**Castor**](https://github.com/KanopusDev/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
+| [**Kale**](https://github.com/KanopusDev/Kale) | Enterprise email API — send via your own SMTP with template management, API keys, and analytics | `Python` `FastAPI` |
+| [**Leo**](https://github.com/KanopusDev/Leo) | Internal developer tooling | `Python` |
 
-### In Development
+## Commercial Products
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| **Sileru** | 🔨 Active | SaaS platform — branded link shortening, dynamic QR codes, cross-channel click analytics, and email campaigns |
-| **Asterion** | 🔨 Active | Overhauled Stable Diffusion XL frontend — FastAPI backend + React UI replacing Gradio |
+| Product | Description | Status |
+|---------|-------------|--------|
+| **Sileru** | SaaS platform — branded link shortening, dynamic QR codes, cross-channel click analytics, and email campaigns | 🔨 In Development |
 
-### Heritage Projects
+## Heritage Projects
 
 These projects established Kanopus and contributed to the AI/ML open-source ecosystem. Some have been archived or folded into newer work:
 
@@ -56,7 +54,7 @@ These projects established Kanopus and contributed to the AI/ML open-source ecos
 ```
 Languages       Python · TypeScript · React
 Backend         FastAPI · uvicorn · Celery
-AI/ML           PyTorch · LangGraph · Qdrant · Local LLMs · SDXL
+AI/ML           PyTorch · LangGraph · Qdrant · Local LLMs
 Data            PostgreSQL · Redis · SQLAlchemy
 Auth            Argon2id · AES-256-GCM · SHA-256 · JWT (in-memory only)
 Infra           Docker · uv (Python) · pnpm (JS) · Vite
@@ -92,7 +90,7 @@ No CLA required. MIT licensed unless stated otherwise.
 | 🌐 Kanopus | [kanopus.org](https://kanopus.org) |
 | 🏢 VRIP7 Group | [github.com/vrip7](https://github.com/vrip7) |
 | 💼 LinkedIn | [company/vrip7](https://linkedin.com/company/vrip7) |
-| 🐦 X/Twitter | [@_vrip7](https://x.com/_vrip7) |
+| 🐦 X / Twitter | [@_vrip7](https://x.com/_vrip7) |
 | 📸 Instagram | [@_vrip7](https://instagram.com/_vrip7) |
 | 📧 Email | [support@vrip7.com](mailto:support@vrip7.com) |
 
