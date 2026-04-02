@@ -1,178 +1,107 @@
-<h1 align="center"> About Kanopus </h1>
+<div align="center">
 
-<p align="center">
-  <em>Pioneering Open Source Innovation</em>
-</p>
+<a href="https://kanopus.org"><img src="https://img.shields.io/badge/kanopus.org-verified-1a6bff?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified Domain" /></a>
+<a href="https://github.com/vrip7"><img src="https://img.shields.io/badge/Part_of-VRIP7_Group-0f1a3d?style=for-the-badge" alt="VRIP7 Group" /></a>
+<a href="https://github.com/sponsors/KanopusDev"><img src="https://img.shields.io/badge/Sponsor-Kanopus-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 
----
+# Kanopus Development
 
-<h2>🌟 Our Vision & Mission</h2>
+**Open-Source AI Tooling & Developer Infrastructure**
 
-### Vision
-We envision a world where cutting-edge technology is accessible to all, regardless of background or resources. A future where the power of AI and ML drives innovation across industries, supported by a thriving open-source ecosystem that breaks down barriers and democratizes technological advancement.
+*The technology arm of [VRIP7 Group](https://github.com/vrip7) — building intelligent, open-source developer tools from India.*
 
-### Mission
-Our mission is threefold:
-<ol>
-  <li>To develop robust, scalable, and intelligent open-source software solutions that solve real-world challenges</li>
-  <li>To build and nurture a global community of developers united by a passion for AI/ML and open-source collaboration</li>
-  <li>To inspire the next generation of technologists through education, mentorship, and meaningful contribution opportunities</li>
-</ol>
+[Website](https://kanopus.org) · [Discussions](https://github.com/orgs/KanopusDev/discussions) · [Sponsor Us](https://github.com/sponsors/KanopusDev)
 
 ---
 
-<h2>✨ Our Core Values</h2>
+</div>
 
-<ul>
-  <li><strong>Innovation Excellence</strong>: We push boundaries and explore new frontiers in AI/ML technology</li>
-  <li><strong>Open Collaboration</strong>: We believe in the power of community-driven development and transparent processes</li>
-  <li><strong>Quality Craftsmanship</strong>: We maintain high standards in code quality, documentation, and user experience</li>
-  <li><strong>Inclusive Community</strong>: We foster environments where diverse perspectives are valued and respected</li>
-  <li><strong>Continuous Learning</strong>: We embrace growth and adaptation in an ever-evolving technological landscape</li>
-</ul>
+## Who We Are
 
----
+Kanopus is [VRIP7](https://github.com/vrip7)'s open-source AI tooling organization. We build developer infrastructure, intelligent automation frameworks, and enterprise-grade tools — all open source, all built in public.
 
-<h2>⚙️ Our Expertise</h2>
+While VRIP7 operates across six business verticals (IT hardware, real estate, defence R&D, hospitality, angel investment, and consultancy), Kanopus is where the code lives. Every framework, every tool, every experiment — shipped here.
 
-<p>Kanopus specializes in building sophisticated software solutions across multiple domains:</p>
+## Projects
 
-### AI/ML Solutions
-We create intelligent applications that leverage cutting-edge machine learning models to solve complex challenges, from natural language processing to predictive analytics.
+### Active
 
-### Developer Tools & Platforms
-We build systems that enhance developer productivity, streamline workflows, and enable more efficient collaboration across teams and projects.
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [**Kale**](https://github.com/KanopusDev/Kale) | Enterprise email API — send via your own SMTP with template management, API keys, and analytics | `Python` `FastAPI` |
+| [**Castor**](https://github.com/vrip7/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
+| [**MindWall**](https://github.com/vrip7/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | `Python` |
 
-### Open-Source Frameworks
-We develop powerful, extensible frameworks that serve as foundations for broader innovation within the developer community.
+### In Development
 
----
+| Project | Status | Description |
+|---------|--------|-------------|
+| **Sileru** | 🔨 Active | SaaS platform — branded link shortening, dynamic QR codes, cross-channel click analytics, and email campaigns |
+| **Asterion** | 🔨 Active | Overhauled Stable Diffusion XL frontend — FastAPI backend + React UI replacing Gradio |
 
-<h2>📂 Our Project Portfolio</h2>
+### Heritage Projects
 
-Here are some of our most impactful projects. Click the project titles to explore further:
+These projects established Kanopus and contributed to the AI/ML open-source ecosystem. Some have been archived or folded into newer work:
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Key Features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/KanopusDev/Aurelis">Aurelis</a></td>
-      <td><strong>Enterprise AI Coding Assistant</strong></td>
-      <td>
-        <ul>
-          <li>Multi-modal AI processing with GPT-4, DeepSeek R1, and O3-mini</li>
-          <li>Enterprise-grade security with audit trails and encrypted credential storage</li>
-          <li>Real-time code quality checks and automated testing</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KanopusDev/Polris">Polris</a></td>
-      <td><strong>Advanced Code Generation Transformer</strong></td>
-      <td>
-        <ul>
-          <li>Code-specific transformer architecture</li>
-          <li>Memory-optimized training for CPU environments</li>
-          <li>Redis-based context storage for conversation management</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KanopusDev/Canopus">Canopus</a></td>
-      <td><strong>Professional AI-Driven Voice Assistant for Developers</strong></td>
-      <td>
-        <ul>
-          <li>Intelligent code navigation and semantic search capabilities</li>
-          <li>On-demand code review and static analysis</li>
-          <li>Advanced speech recognition with noise reduction</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KanopusDev/Aoede">Aoede</a></td>
-      <td><strong>AI-Powered Website Generation Engine</strong></td>
-      <td>
-        <ul>
-          <li>High-performance FastAPI backend</li>
-          <li>Advanced AI integration for website generation</li>
-          <li>Comprehensive OpenAPI documentation</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KanopusDev/Nova">Nova</a></td>
-      <td><strong>High-Performance AI-Enhanced Search Engine</strong></td>
-      <td>
-        <ul>
-          <li>AI-enhanced search rankings using BERT embeddings</li>
-          <li>Intelligent web crawling and indexing</li>
-          <li>Comprehensive monitoring with Prometheus & Grafana</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | What It Was |
+|---------|-------------|
+| **Canopus** | AI-powered voice assistant for developers — speech recognition, code navigation, semantic search |
+| **Aoede** | Multi-agent AI coding team — 6 specialized agents collaborating on code generation |
+| **Nova** | AI-enhanced search engine with BERT embeddings, web crawling, and Prometheus monitoring |
+| **Aurelis** | Enterprise AI coding assistant — multi-modal processing with GPT-4, DeepSeek R1, and O3-mini |
+| **Polris** | Code generation transformer with memory-optimized training for CPU environments |
+
+## Tech DNA
+
+```
+Languages       Python · TypeScript · React
+Backend         FastAPI · uvicorn · Celery
+AI/ML           PyTorch · LangGraph · Qdrant · Local LLMs · SDXL
+Data            PostgreSQL · Redis · SQLAlchemy
+Auth            Argon2id · AES-256-GCM · SHA-256 · JWT (in-memory only)
+Infra           Docker · uv (Python) · pnpm (JS) · Vite
+```
+
+## Architecture Principles
+
+We enforce these across every Kanopus project:
+
+- **JWT stored in Zustand memory only** — never `localStorage`
+- **Argon2id** for password hashing, always
+- **AES-256-GCM** for secrets at rest
+- **SHA-256** for API key storage with prefixed keys
+- **Integer cents** for all monetary values
+- **`uv`** for Python, **`pnpm`** for JavaScript — no exceptions
+- **HMAC `compare_digest()`** first in webhook handlers
+- **Celery idempotency guard** as first line of every task
+
+## Contributing
+
+We welcome contributions at every level — from typo fixes to core feature development.
+
+1. Check [open issues](https://github.com/orgs/KanopusDev/repositories) across our repos
+2. Join the [Discussions](https://github.com/orgs/KanopusDev/discussions) to propose ideas
+3. Fork → branch → PR. We review everything.
+
+No CLA required. MIT licensed unless stated otherwise.
+
+## Connect
+
+| | |
+|---|---|
+| 🌐 Kanopus | [kanopus.org](https://kanopus.org) |
+| 🏢 VRIP7 Group | [github.com/vrip7](https://github.com/vrip7) |
+| 💼 LinkedIn | [company/vrip7](https://linkedin.com/company/vrip7) |
+| 🐦 X/Twitter | [@KanopusDev](https://x.com/KanopusDev) |
+| 📸 Instagram | [@KanopusDev](https://instagram.com/KanopusDev) |
+| 📧 Email | [support@kanopus.org](mailto:support@kanopus.org) |
 
 ---
 
-<h2>🛠️ Our Development Philosophy</h2>
+<div align="center">
 
-<ul>
-  <li><strong>Quality-First Approach</strong>: Rigorous testing, comprehensive documentation, and clean, maintainable code</li>
-  <li><strong>User-Centered Design</strong>: Intuitive interfaces, clear documentation, and straightforward integration paths</li>
-  <li><strong>Sustainable Open Source</strong>: Projects designed for long-term sustainability with clear contribution guidelines</li>
-  <li><strong>Continuous Innovation</strong>: Incorporating emerging technologies thoughtfully to enhance projects while maintaining stability</li>
-</ul>
+**Built by [VRIP7 Group](https://github.com/vrip7) from Ujjain, India.**
 
----
+<sub>Open source isn't a strategy. It's a conviction.</sub>
 
-<h2>🌐 Community Engagement</h2>
-
-Kanopus thrives on community engagement. Here’s how you can join us:
-
-### Contribution Opportunities
-We welcome contributions at all levels, from documentation improvements to core feature development.
-
-### Knowledge Sharing
-We share insights through blog posts, tutorials, and discussions about AI/ML advancements and open-source best practices.
-
-### Collaborative Events
-Join us for hackathons, code sprints, and community calls to innovate and connect with like-minded developers.
-
----
-
-<h2>🚀 Join Our Ecosystem</h2>
-
-<p>We're building more than software—we're creating an ecosystem where developers can learn, contribute, and innovate together:</p>
-
-<p align="center">
-  <a href="https://github.com/KanopusDev"><img src="https://img.shields.io/badge/GitHub-KanopusDev-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://kanopusdev.slack.com"><img src="https://img.shields.io/badge/Slack-Join%20Our%20Community-4A154B?style=for-the-badge&logo=slack"/></a>
-  <a href="https://twitter.com/Kanopusdev"><img src="https://img.shields.io/badge/Twitter-@KanopusDev-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="https://instagram.com/Kanopusdev"><img src="https://img.shields.io/badge/Instagram-@KanopusDev-E4405F?style=for-the-badge&logo=instagram"/></a>
-</p>
-
----
-
-<h2>🌈 Our Commitment to the Future</h2>
-
-<p>As technology evolves, so does Kanopus. We remain committed to:</p>
-<ul>
-  <li>Expanding our project portfolio into emerging technological domains</li>
-  <li>Deepening integration capabilities across our tools and with external systems</li>
-  <li>Growing our community through inclusive practices and meaningful engagement</li>
-  <li>Advancing the state of open-source AI/ML through continuous research and development</li>
-</ul>
-
----
-
-<h2>📬 Connect With Us</h2>
-
-<p>Whether you're looking to use our tools, contribute to our projects, explore collaboration opportunities, or simply connect with like-minded developers, we welcome you to reach out and become part of the Kanopus journey.</p>
-<p align="center"><strong>Join us in shaping the future of technology through AI/ML innovation and open-source collaboration.</strong></p>
+</div>
