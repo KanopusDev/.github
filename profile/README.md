@@ -2,86 +2,70 @@
 
 <a href="https://kanopus.org"><img src="https://img.shields.io/badge/kanopus.org-verified-1a6bff?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified Domain" /></a>
 <a href="https://github.com/vrip7"><img src="https://img.shields.io/badge/Part_of-VRIP7_Group-0f1a3d?style=for-the-badge" alt="VRIP7 Group" /></a>
-<a href="https://github.com/sponsors/KanopusDev"><img src="https://img.shields.io/badge/Sponsor-Kanopus-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 
 # Kanopus Development
 
-**Open-Source AI Tooling & Developer Infrastructure**
+**Software & Open-Source Engineering by VRIP7**
 
-*The technology arm of [VRIP7 Group](https://github.com/vrip7) — building intelligent, open-source developer tools from India.*
+*Building new software systems, developer tools, and experimental products from India.*
 
-[Website](https://kanopus.org) · [Discussions](https://github.com/orgs/KanopusDev/discussions) · [Sponsor Us](https://github.com/sponsors/KanopusDev)
+[Website](https://kanopus.org) · [VRIP7 Group](https://github.com/vrip7)
 
 ---
 
 </div>
 
-## Who We Are
+## About
 
-Kanopus is [VRIP7](https://github.com/vrip7)'s open-source and software development organization. We build developer infrastructure, intelligent automation frameworks, enterprise-grade tools, and commercial software products — shipping from India.
+Kanopus Development is the software engineering and open-source arm of [VRIP7 Group](https://github.com/vrip7).
 
-While VRIP7 operates across six business verticals (IT hardware, real estate, defence R&D, hospitality, angel investment, and consultancy), Kanopus is where the code lives.
+This organization is being rebuilt from a clean slate.
 
-## Open-Source Projects
+All previous repositories have been retired, the earlier legacy phase is closed, and future work published here will represent the **current Kanopus direction only**.
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [**MindWall**](https://github.com/KanopusDev/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | `Python` |
-| [**Castor**](https://github.com/KanopusDev/Castor) | Production auth API with E2E encryption and comprehensive security measures | `Python` |
-| [**Kale**](https://github.com/KanopusDev/Kale) | Enterprise email API — send via your own SMTP with template management, API keys, and analytics | `Python` `FastAPI` |
-| [**Leo**](https://github.com/KanopusDev/Leo) | Internal developer tooling | `Python` |
+## Current Status
 
-## Commercial Products
+- **Legacy repositories:** retired
+- **Old software line:** closed
+- **New repositories:** coming here
+- **Organization role:** focused on software, tooling, and experimental products under VRIP7
 
-| Product | Description | Status |
-|---------|-------------|--------|
-| **Sileru** | SaaS platform — branded link shortening, dynamic QR codes, cross-channel click analytics, and email campaigns | 🔨 In Development |
+## What to Expect Here
 
-## Heritage Projects
+Future repositories under Kanopus may include:
 
-These projects established Kanopus and contributed to the AI/ML open-source ecosystem. Some have been archived or folded into newer work:
+- developer tools
+- internal engineering utilities
+- AI-assisted software systems
+- infrastructure components
+- experimental open-source work
+- product prototypes and technical research
 
-| Project | What It Was |
-|---------|-------------|
-| **Canopus** | AI-powered voice assistant for developers — speech recognition, code navigation, semantic search |
-| **Aoede** | Multi-agent AI coding team — 6 specialized agents collaborating on code generation |
-| **Nova** | AI-enhanced search engine with BERT embeddings, web crawling, and Prometheus monitoring |
-| **Aurelis** | Enterprise AI coding assistant — multi-modal processing with GPT-4, DeepSeek R1, and O3-mini |
-| **Polris** | Code generation transformer with memory-optimized training for CPU environments |
+This organization will only contain work that is currently relevant and actively maintained.
 
-## Tech DNA
+## Principles
 
-```
-Languages       Python · TypeScript · React
-Backend         FastAPI · uvicorn · Celery
-AI/ML           PyTorch · LangGraph · Qdrant · Local LLMs
-Data            PostgreSQL · Redis · SQLAlchemy
-Auth            Argon2id · AES-256-GCM · SHA-256 · JWT (in-memory only)
-Infra           Docker · uv (Python) · pnpm (JS) · Vite
-```
+We want Kanopus to stay simple and intentional:
 
-## Architecture Principles
+- build fewer things, but build them well
+- publish only what is current
+- keep architecture clean and practical
+- prefer maintainable systems over hype
+- treat open source as engineering discipline, not noise
 
-We enforce these across every Kanopus project:
+## Relationship with VRIP7
 
-- **JWT stored in Zustand memory only** — never `localStorage`
-- **Argon2id** for password hashing, always
-- **AES-256-GCM** for secrets at rest
-- **SHA-256** for API key storage with prefixed keys
-- **Integer cents** for all monetary values
-- **`uv`** for Python, **`pnpm`** for JavaScript — no exceptions
-- **HMAC `compare_digest()`** first in webhook handlers
-- **Celery idempotency guard** as first line of every task
+[VRIP7](https://github.com/vrip7) is the parent group.  
+Kanopus exists as its dedicated software and engineering identity.
 
-## Contributing
+If VRIP7 is the umbrella, Kanopus is where the software work is shaped and published.
 
-We welcome contributions at every level — from typo fixes to core feature development.
+## Notes
 
-1. Check [open issues](https://github.com/orgs/KanopusDev/repositories) across our repos
-2. Join the [Discussions](https://github.com/orgs/KanopusDev/discussions) to propose ideas
-3. Fork → branch → PR. We review everything.
+This README marks a reset of the organization.
 
-No CLA required. MIT licensed unless stated otherwise.
+It is not an archive page, migration page, or legacy catalog.  
+It is the starting point for the **next phase of Kanopus**.
 
 ## Connect
 
@@ -98,8 +82,8 @@ No CLA required. MIT licensed unless stated otherwise.
 
 <div align="center">
 
-**Built by [VRIP7 Group](https://github.com/vrip7) from Ujjain, India.**
+**Built under [VRIP7 Group](https://github.com/vrip7) from Ujjain, India.**
 
-<sub>Open source isn't a strategy. It's a conviction.</sub>
+<sub>Reset clean. Build deliberately.</sub>
 
 </div>
